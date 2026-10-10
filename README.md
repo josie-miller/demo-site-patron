@@ -10,7 +10,7 @@ Run `python3 -m http.server 8000` in this directory and open http://localhost:80
 
 - `index.html`: content, video embed, and links.
 - `style.css`: responsive layout and branding.
-- `script.js`: unused placeholder; no custom JavaScript is required.
+- `script.js`: interactive rating example; values are not saved.
 
 GitHub Pages publishes from the root of `main`. Commits to `main` trigger deployment. The earlier private Sites preview is hosted separately.
 
